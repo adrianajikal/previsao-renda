@@ -34,8 +34,6 @@ O projeto foi desenvolvido seguindo as etapas da metodologia **CRISP-DM**:
   - `educacao`: Nível educacional (Secundário, Superior completo, etc.).
   - `renda`: Renda mensal do cliente (variável alvo).
     
-## **Profiling Report: [Clique aqui para acessar a análise de renda](./renda_analysis.html)
-
 ## **Modelos Testados**
 Os seguintes modelos foram avaliados:
 1. **Regressão Linear (Statsmodels)**
